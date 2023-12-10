@@ -20,10 +20,25 @@ My interest lies in understanding the key regulators of aging to develop targete
 
 Publications
 ======
-See Google Scholar for a full list of papers. *: equivalent contribution.
+See [Google Scholar](https://scholar.google.com/citations?user=03XvmIQAAAAJ&hl=en&oi=ao) for a full list of papers. *: equivalent contribution.
 
-Haoxiang Yang, Jay Xiaojun Tan. "Lysosomal quality control: molecular mechanisms and therapeutic implications." Trends in Cell Biology (2023). https://doi.org/10.1016/j.tcb.2023.01.001
 
-Jinrui Xun*, Zhichao Zhang*, Bo Lyu*, Defen Lu*, Haoxiang Yang, Guijun Shang, Jay Xiaojun Tan. "A conserved ion channel function of STING mediates non-canonical autophagy and cell death." EMBO Reports. Accepted, in press. bioRxiv: https://doi.org/10.1101/2023.08.26.554976
 
-Haoxiang Yang, Jay Xiaojun Tan. "The PITT pathway: Keeping lysosomes young." Clinical and Translational Medicine 12, no. 10 (2022). https://doi.org/10.1002%2Fctm2.1097
+#### [Lysosomal quality control: molecular mechanisms and therapeutic implications](https://doi.org/10.1016/j.tcb.2023.01.001)
+
+**Haoxiang Yang**, Jay Xiaojun Tan
+Trends in Cell Biology, 2023.
+
+
+
+#### [A conserved ion channel function of STING mediates non-canonical autophagy and cell death](https://doi.org/10.1101/2023.08.26.554976)
+
+Jinrui Xun\*, Zhichao Zhang\*, Bo Lyu\*, Defen Lu\*, **Haoxiang Yang**, Guijun Shang, Jay Xiaojun Tan
+EMBO Reports, accepted, in press
+
+
+
+#### [The PITT pathway: Keeping lysosomes young](https://doi.org/10.1002%2Fctm2.1097)
+
+**Haoxiang Yang**, Jay Xiaojun Tan.
+Clinical and Translational Medicine, 2022.
