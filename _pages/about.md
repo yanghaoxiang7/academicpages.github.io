@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Research Interest"
-excerpt: "About me"
+title: "Haoxiang's page"
+excerpt: "Haoxiang's page"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,21 +27,30 @@ See [Google Scholar](https://scholar.google.com/citations?user=03XvmIQAAAAJ&hl=e
 [Lysosomal quality control: molecular mechanisms and therapeutic implications](https://doi.org/10.1016/j.tcb.2023.01.001)
 
 **Haoxiang Yang**, Jay Xiaojun Tan
+
 Trends in Cell Biology, 2023.
+
 
 
 
 [A conserved ion channel function of STING mediates non-canonical autophagy and cell death](https://doi.org/10.1101/2023.08.26.554976)
 
 Jinrui Xun\*, Zhichao Zhang\*, Bo Lyu\*, Defen Lu\*, **Haoxiang Yang**, Guijun Shang, Jay Xiaojun Tan
+
 EMBO Reports, accepted, in press
+
 
 
 
 [The PITT pathway: Keeping lysosomes young](https://doi.org/10.1002%2Fctm2.1097)
 
 **Haoxiang Yang**, Jay Xiaojun Tan.
+
 Clinical and Translational Medicine, 2022.
 
-[Resume](https://drive.google.com/file/d/1tGKtzC19vqMtq-vfZ4vz-R-lowVdoaih/view?usp=sharing)
+
+
+
+Resume
 ======
+[Link](https://drive.google.com/file/d/1tGKtzC19vqMtq-vfZ4vz-R-lowVdoaih/view?usp=sharing)
