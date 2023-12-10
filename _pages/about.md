@@ -12,7 +12,7 @@ Email: yanghaoxiang7@gmail.com
 About me
 ======
 
-I am a master's student majoring in Electrical and Computer Engineering at Carnegie Mellon University. Currently I'm doing research at Aging Institute, University of Pittsburgh School with Dr. Jay Tan. Earlier, I received my Bachelor's degree in Computer Science from AI Turing Class, Peking University.
+I am a second-year master's student majoring in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). Currently I'm doing research on lysosomal quality control and molecular mechanism in aging and aging-related diseases at [Aging Institute](https://aging.pitt.edu/), [University of Pittsburgh School of Medicine (UPMC)](https://www.medschool.pitt.edu/) with [Dr. Jay Tan](https://jaytanlab.org/). Earlier, I received my Bachelor's degree in Computer Science from [Turing Class](https://eecs.pku.edu.cn/en/Education/Programs.htm), [Peking University](https://english.pku.edu.cn/).
 
 Research Interest
 ======
