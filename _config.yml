@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haoxiang Yang"
 title_separator          : "-"
 name                     : &name "Haoxiang Yang"
-description              : &description "Second-year Master student at Carnegie Mellon University"
+description              : &description "Second-year Master's student at Carnegie Mellon University"
 url                      : https://yanghaoxiang7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanghaoxiang7.github.io"
@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Haoxiang Yang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a master's student majoring in Electrical and Computer Engineering at Carnegie Mellon University. Previously I was a Computer Science undergraduate from Peking University AI Turing Class."
+  location         : "Pittsburgh"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/haoxiang.yang.1/bibliography/public/"
+  googlescholar    : "https://scholar.google.com/citations?user=03XvmIQAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "yanghaoxiang7"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-5582-4793"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "YangHaoxiang3"
   vine             :
   weibo            :
   xing             :
