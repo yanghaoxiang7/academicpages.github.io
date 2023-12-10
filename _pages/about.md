@@ -12,7 +12,7 @@ Email: yanghaoxiang7@gmail.com
 About me
 ======
 
-I am a second-year master's student majoring in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). Currently I'm doing research on lysosomal quality control and molecular mechanism in aging and aging-related diseases at [Aging Institute](https://aging.pitt.edu/), [University of Pittsburgh School of Medicine (UPMC)](https://www.medschool.pitt.edu/) with [Dr. Jay Tan](https://jaytanlab.org/). Earlier, I received my Bachelor's degree in Computer Science from [Turing Class](https://eecs.pku.edu.cn/en/Education/Programs.htm), [Peking University](https://english.pku.edu.cn/).
+I am a second-year master's student majoring in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). Currently I'm doing research on lysosomal quality control and molecular mechanism in aging and aging-related diseases at [Aging Institute](https://aging.pitt.edu/), [University of Pittsburgh School of Medicine (UPMC)](https://www.medschool.pitt.edu/) with [Dr. Jay Tan](https://jaytanlab.org/). Earlier, I received my Bachelor's degree in Computer Science from [Turing Class](https://eecs.pku.edu.cn/en/Education/Programs.htm), [Peking University](https://english.pku.edu.cn/). See my Resume for a full list of experience.
 
 Research Interest
 ======
@@ -20,7 +20,7 @@ My interest lies in understanding the key regulators of aging to develop targete
 
 Publications
 ======
-See [Google Scholar](https://scholar.google.com/citations?user=03XvmIQAAAAJ&hl=en&oi=ao) for a full list of papers. *: equivalent contribution.
+See [Google Scholar](https://scholar.google.com/citations?user=03XvmIQAAAAJ&hl=en&oi=ao) for a latest list of papers. *: equivalent contribution.
 
 
 
@@ -42,3 +42,6 @@ EMBO Reports, accepted, in press
 
 **Haoxiang Yang**, Jay Xiaojun Tan.
 Clinical and Translational Medicine, 2022.
+
+[Resume](https://drive.google.com/file/d/1tGKtzC19vqMtq-vfZ4vz-R-lowVdoaih/view?usp=sharing)
+======
