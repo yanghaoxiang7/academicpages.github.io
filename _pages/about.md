@@ -23,33 +23,23 @@ Publications
 See [Google Scholar](https://scholar.google.com/citations?user=03XvmIQAAAAJ&hl=en&oi=ao) for a latest list of papers. *: equivalent contribution.
 
 
-
-[Lysosomal quality control: molecular mechanisms and therapeutic implications](https://doi.org/10.1016/j.tcb.2023.01.001)
+**Lysosomal quality control: molecular mechanisms and therapeutic implications** ([Link](https://doi.org/10.1016/j.tcb.2023.01.001))
 
 **Haoxiang Yang**, Jay Xiaojun Tan
 
 Trends in Cell Biology, 2023.
 
-\\
-
-
-[A conserved ion channel function of STING mediates non-canonical autophagy and cell death](https://doi.org/10.1101/2023.08.26.554976)
+**A conserved ion channel function of STING mediates non-canonical autophagy and cell death** ([Link](https://doi.org/10.1101/2023.08.26.554976))
 
 Jinrui Xun\*, Zhichao Zhang\*, Bo Lyu\*, Defen Lu\*, **Haoxiang Yang**, Guijun Shang, Jay Xiaojun Tan
 
 EMBO Reports, 2024
 
-
-\\
-
-[The PITT pathway: Keeping lysosomes young](https://doi.org/10.1002%2Fctm2.1097)
+**The PITT pathway: Keeping lysosomes young** ([Link](https://doi.org/10.1002%2Fctm2.1097))
 
 **Haoxiang Yang**, Jay Xiaojun Tan.
 
 Clinical and Translational Medicine, 2022.
-
-
-\\
 
 Resume
 ======
@@ -58,9 +48,18 @@ Resume
 
 Previous experience and coworkers
 ======
-At Carnegie Mellon University
+During M.S. at Carnegie Mellon University
+
+Intern @ UPitt
 Advisor/Mentor: [Dr. Jay Xiaojun Tan](https://jaytanlab.org/); also working with [Dr. Toren Finkel](https://aging.pitt.edu/labs/finkel-lab/)
-At Peking University
+
+During B.S. at Peking University
+
+Intern @ PKU
 Advisor: [Dr. Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm): Mentor: [Fangwei Zhong](http://fangweizhong.xyz/); Co-worker: [Kejuan Yang](https://www.linkedin.com/in/kejuan-yang-3545b6288/)
+
+Intern @ Stanford
 Advisor: [Dr. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/); Mentor: [Yanchao Yang](https://yanchaoyang.github.io/), [Kaichun Mo](https://kaichun-mo.github.io/)
+
+Intern @ Mila
 Advisor: [Dr. Jian Tang](https://jian-tang.com/); Mentor: [Chence Shi](https://chenceshi.com/), [Huiyu Cai](https://hui2000ji.github.io/); Co-worker: [Chang Ma](https://chang-github-00.github.io/-changma/)
