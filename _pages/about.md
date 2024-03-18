@@ -37,7 +37,7 @@ Trends in Cell Biology, 2023.
 
 Jinrui Xun\*, Zhichao Zhang\*, Bo Lyu\*, Defen Lu\*, **Haoxiang Yang**, Guijun Shang, Jay Xiaojun Tan
 
-EMBO Reports, accepted, in press
+EMBO Reports, 2024
 
 
 \\
