@@ -12,7 +12,7 @@ Email: yanghaoxiang7@gmail.com
 About me
 ======
 
-I am a second-year master's student majoring in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). Currently I'm doing research on lysosomal quality control and molecular mechanism in aging and aging-related diseases at [Aging Institute](https://aging.pitt.edu/), [University of Pittsburgh School of Medicine (UPMC)](https://www.medschool.pitt.edu/) with [Dr. Jay Tan](https://jaytanlab.org/). Earlier, I received my Bachelor's degree in Computer Science from [Turing Class](https://eecs.pku.edu.cn/en/Education/Programs.htm), [Peking University](https://english.pku.edu.cn/). See my Resume for a full list of experience.
+I am a second-year master's student majoring in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). Currently I'm doing research on lysosomal quality control and molecular mechanism in aging and aging-related diseases at [Aging Institute](https://aging.pitt.edu/), [University of Pittsburgh School of Medicine (UPMC)](https://www.medschool.pitt.edu/) with [Dr. Jay Tan](https://jaytanlab.org/) as mentor and closely work with [Dr. Toren Finkel](https://aging.pitt.edu/labs/finkel-lab/). Earlier, I received my Bachelor's degree in Computer Science from [Turing Class](https://eecs.pku.edu.cn/en/Education/Programs.htm), [Peking University](https://english.pku.edu.cn/). See my Resume for a full list of experience.
 
 Research Interest
 ======
@@ -30,7 +30,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=03XvmIQAAAAJ&hl=e
 
 Trends in Cell Biology, 2023.
 
-
+\\
 
 
 [A conserved ion channel function of STING mediates non-canonical autophagy and cell death](https://doi.org/10.1101/2023.08.26.554976)
@@ -40,7 +40,7 @@ Jinrui Xun\*, Zhichao Zhang\*, Bo Lyu\*, Defen Lu\*, **Haoxiang Yang**, Guijun S
 EMBO Reports, accepted, in press
 
 
-
+\\
 
 [The PITT pathway: Keeping lysosomes young](https://doi.org/10.1002%2Fctm2.1097)
 
@@ -49,8 +49,18 @@ EMBO Reports, accepted, in press
 Clinical and Translational Medicine, 2022.
 
 
-
+\\
 
 Resume
 ======
 [Link](https://drive.google.com/file/d/1tGKtzC19vqMtq-vfZ4vz-R-lowVdoaih/view?usp=sharing)
+
+
+Previous experience and coworkers
+======
+At Carnegie Mellon University
+Advisor/Mentor: [Dr. Jay Xiaojun Tan](https://jaytanlab.org/); also working with [Dr. Toren Finkel](https://aging.pitt.edu/labs/finkel-lab/)
+At Peking University
+Advisor: [Dr. Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm): Mentor: [Fangwei Zhong](http://fangweizhong.xyz/); Co-worker: [Kejuan Yang](https://www.linkedin.com/in/kejuan-yang-3545b6288/)
+Advisor: [Dr. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/); Mentor: [Yanchao Yang](https://yanchaoyang.github.io/), [Kaichun Mo](https://kaichun-mo.github.io/)
+Advisor: [Dr. Jian Tang](https://jian-tang.com/); Mentor: [Chence Shi](https://chenceshi.com/), [Huiyu Cai](https://hui2000ji.github.io/); Co-worker: [Chang Ma](https://chang-github-00.github.io/-changma/)
