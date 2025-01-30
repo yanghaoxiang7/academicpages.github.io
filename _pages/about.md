@@ -26,23 +26,13 @@ Publications
 See [Google Scholar](https://scholar.google.com/citations?user=03XvmIQAAAAJ&hl=en&oi=ao) for a latest list of papers.
 
 
-**Lysosomal quality control: molecular mechanisms and therapeutic implications** ([Link](https://doi.org/10.1016/j.tcb.2023.01.001))
+**Lysosomal quality control: molecular mechanisms and therapeutic implications**, **Haoxiang Yang**, Jay Xiaojun Tan. Trends in Cell Biology, 2023. ([Link](https://doi.org/10.1016/j.tcb.2023.01.001))
 
-**Haoxiang Yang**, Jay Xiaojun Tan
+**A TBK1-independent primordial function of STING in lysosomal biogenesis**, Bo Lv, William A Dion, **Haoxiang Yang**, Jinrui Xun, Do-Hyung Kim, Bokai Zhu, Jay Xiaojun Tan. Molecular Cell, 2024 ([Link](https://www.cell.com/molecular-cell/fulltext/S1097-2765(24)00703-2))
 
-Trends in Cell Biology, 2023.
+**A conserved ion channel function of STING mediates non-canonical autophagy and cell death**, Jinrui Xun\*, Zhichao Zhang\*, Bo Lyu\*, Defen Lu\*, **Haoxiang Yang**, Guijun Shang, Jay Xiaojun Tan. EMBO Reports, 2024. ([Link](https://doi.org/10.1101/2023.08.26.554976))
 
-**A conserved ion channel function of STING mediates non-canonical autophagy and cell death** ([Link](https://doi.org/10.1101/2023.08.26.554976))
-
-Jinrui Xun\*, Zhichao Zhang\*, Bo Lyu\*, Defen Lu\*, **Haoxiang Yang**, Guijun Shang, Jay Xiaojun Tan
-
-EMBO Reports, 2024
-
-**The PITT pathway: Keeping lysosomes young** ([Link](https://doi.org/10.1002%2Fctm2.1097))
-
-**Haoxiang Yang**, Jay Xiaojun Tan.
-
-Clinical and Translational Medicine, 2022.
+**The PITT pathway: Keeping lysosomes young**, **Haoxiang Yang**, Jay Xiaojun Tan. Clinical and Translational Medicine, 2022. ([Link](https://doi.org/10.1002%2Fctm2.1097))
 
 Resume
 ======
@@ -53,16 +43,18 @@ Previous experience and coworkers
 ======
 During M.S. at Carnegie Mellon University
 
-Intern @ UPitt, 2022-2024
+UPitt, 2022-2024
 Advisor/Mentor: [Dr. Jay Xiaojun Tan](https://jaytanlab.org/); also working with [Dr. Toren Finkel](https://aging.pitt.edu/labs/finkel-lab/)
 
 During B.S. at Peking University
 
-Intern @ PKU, 2021-2022
+PKU, 2021-2022
 Advisor: [Dr. Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm): Mentor: [Fangwei Zhong](http://fangweizhong.xyz/); Co-worker: [Kejuan Yang](https://www.linkedin.com/in/kejuan-yang-3545b6288/)
 
-Intern @ Stanford, 2021
+Stanford, 2021
 Advisor: [Dr. Leonidas Guibas](https://geometry.stanford.edu/member/guibas/); Mentor: [Yanchao Yang](https://yanchaoyang.github.io/), [Kaichun Mo](https://kaichun-mo.github.io/)
 
-Intern @ Mila, 2021
+Mila, 2021
 Advisor: [Dr. Jian Tang](https://jian-tang.com/); Mentor: [Chence Shi](https://chenceshi.com/), [Huiyu Cai](https://hui2000ji.github.io/); Co-worker: [Chang Ma](https://chang-github-00.github.io/-changma/)
+
+Last updated: Jan 29, 2025
